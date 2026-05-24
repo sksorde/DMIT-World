@@ -1,0 +1,14 @@
+I’ve created a complete starter project guide with:
+
+* Next.js frontend
+* FastAPI backend
+* Ollama integration
+* Whisper speech-to-text
+* Piper text-to-speech
+* WebSocket voice streaming
+* Full folder structure
+* Installation instructions
+* Run commands
+* Production recommendations
+
+It also explains exactly where to plug in your existing CMSVoiceTraining React component.
